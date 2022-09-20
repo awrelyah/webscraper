@@ -1,0 +1,17 @@
+{
+    "name": "aureliamihk/webscraper",
+    "autoload": {
+        "psr-4": {
+            "scraper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "awrelyah",
+            "email": "aureliamihkk@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
